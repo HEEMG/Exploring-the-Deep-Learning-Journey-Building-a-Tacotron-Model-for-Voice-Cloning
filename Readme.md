@@ -1,4 +1,5 @@
 # Title: Exploring the Deep Learning Journey: Building a Tacotron Model for Voice Cloning
+![vclone](https://github.com/Hem5555/Exploring-the-Deep-Learning-Journey-Building-a-Tacotron-Model-for-Voice-Cloning/assets/121716939/69f40fec-67fb-49e6-81d3-8e8001229cd0)
 
 ## Introduction:
 In this blog post, we will dive into a fascinating deep learning  project that involves creating our own Tacotron model for voice cloning. By following a step-by-step process, we will collect data, process the dataset, train the model, and ultimately achieve our goal of synthesizing audio. Let's embark on this exciting journey!
