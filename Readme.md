@@ -1,4 +1,4 @@
-# Title: Exploring the Deep Learning Journey: Building a Tacotron Model for Voice Cloning
+# Exploring the Deep Learning Journey: Building a Tacotron Model for Voice Cloning
 ![vclone](https://github.com/Hem5555/Exploring-the-Deep-Learning-Journey-Building-a-Tacotron-Model-for-Voice-Cloning/assets/121716939/69f40fec-67fb-49e6-81d3-8e8001229cd0)
 
 ## Introduction:
